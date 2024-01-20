@@ -1,10 +1,10 @@
 # Sendstr-web
 
-Access the web app: [https://sendstr.com](https://sendstr.com)
+Access the web app: [https://x.luvnft.com](https://x.luvnft.com)
 
 Sendstr is an e2e encrypted bi-directional clipboard web app powered by Nostr.
 
-The main motivation to build Sendstr was to provide a quick and easy way to transfer text and files (coming soon) between devices. Sendstr defaults to a self-hosted Nostr relay but can easily be configured to point elsewhere.
+The main motivation to build X was to provide a quick and easy way to transfer text and files (coming soon) between devices. X defaults to a self-hosted Nostr relay but can easily be configured to point elsewhere.
 
 ## Build
 

@@ -65,29 +65,30 @@ export default function Settings() {
   return (
     <>
       <Head>
-        <title>Sendstr - Settings</title>
-        <meta name="title" content="Sendstr - Settings" />
+        <title>X - Settings</title>
+        <meta name="title" content="X - Settings" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta
           name="description"
-          content="Sendstr is an open source end-to-end encrypted bi-directional clipboard app
-            built on top of Nostr. No login needed, new throwaway encryption keys are generated on
-            page load, and the default relay deletes messages after 1 hour."
+          content="X: Simple, secure end-to-end encrypted shared clipboard app powered by 
+          LUV NFT. No login needed, new throwaway encryption keys are generated on page 
+          load, and the default Nostr relay deletes messages after 1 hour. To get started 
+          open this page on another device and choose one of the options below."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://sendstr.com/settings" />
-        <meta property="og:title" content="Sendstr - Settings" />
+        <meta property="og:url" content="https://x.luvnft.com/settings" />
+        <meta property="og:title" content="X - Settings" />
         <meta
           property="og:description"
-          content="Sendstr is an open source end-to-end encrypted bi-directional clipboard app built on top of Nostr. No login needed, new throwaway encryption keys are generated on page load, and the default relay deletes messages after 1 hour."
+          content="X: Simple, secure end-to-end encrypted shared clipboard app powered by LUV NFT. No login needed, new throwaway encryption keys are generated on page load, and the default Nostr relay deletes messages after 1 hour. To get started open this page on another device and choose one of the options below."
         />
         <meta property="og:image" content="/favicon-16x16.png" />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://sendstr.com/settings" />
-        <meta property="twitter:title" content="Sendstr - Settings" />
+        <meta property="twitter:url" content="https://x.luvnft.com/settings" />
+        <meta property="twitter:title" content="X - Settings" />
         <meta
           property="twitter:description"
-          content="Sendstr is an open source end-to-end encrypted bi-directional clipboard app built on top of Nostr. No login needed, new throwaway encryption keys are generated on page load, and the default relay deletes messages after 1 hour."
+          content="X: Simple, secure end-to-end encrypted shared clipboard app powered by LUV NFT. No login needed, new throwaway encryption keys are generated on page load, and the default Nostr relay deletes messages after 1 hour. To get started open this page on another device and choose one of the options below."
         />
         <meta property="twitter:image" content="/favicon-16x16.png" />
       </Head>

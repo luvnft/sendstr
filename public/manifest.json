@@ -1,6 +1,6 @@
 {
-  "short_name": "Sendstr",
-  "name": "Sendstr: secure clipboard sharing",
+  "short_name": "X",
+  "name": "X: secure clipboard sharing",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -18,5 +18,5 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#3C3744",
-  "description": "Sendstr is an open source end-to-end encrypted bi-directional clipboard app built on top of Nostr. No login needed, new throwaway encryption keys are generated on page load."
+  "description": "X: Simple, secure end-to-end encrypted shared clipboard app powered by LUV NFT. No login needed, new throwaway encryption keys are generated on page load, and the default Nostr relay deletes messages after 1 hour. To get started open this page on another device and choose one of the options below."
 }
